@@ -1,5 +1,5 @@
 ---
-title: 'StArt and Science: about'
+title: 'StArt & Science: about'
 ---
 
 Hi, I'm Dylan
